@@ -50,3 +50,14 @@ Primeiro, revisamos o comportamento padrão do display block, entendendo como os
 
 ## Explorando o display flex e classes CSS
 Em seguida, conhecemos o display flex, explorando formas de alinhar e distribuir os elementos com mais flexibilidade. Posteriormente, aplicamos classes CSS para reutilizar estilos, facilitando a padronização do aspecto visual. Por fim, utilizamos seletores de classe para definir com mais precisão quais elementos seriam estilizados. Com isso, conseguimos organizar melhor os elementos da página e melhorar a estrutura visual do nosso projeto.
+
+# Aula 06: Contador de likes em JavaScript
+
+## Introduzindo o tema da aula
+Olá, estudantes! O tema de nossa aula foi a criação de um contador de 'likes' com JavaScript. Nosso objetivo era tornar a página interativa por meio de um contador de 'likes'. Vamos revisar o que fizemos até agora?
+
+## Analisando elementos HTML
+Primeiro, analisamos as tags button e span no HTML, compreendendo o papel de cada uma no funcionamento do contador.
+
+## Implementando a lógica do contador
+Em seguida, utilizamos o querySelector para selecionar esses elementos e permitir sua manipulação com JavaScript. Posteriormente, adicionamos um evento de clique com EventListener, definindo a ação ao clicar no botão. Por fim, implementamos a lógica para atualizar o número de 'curtidas', exibindo o valor atualizado na tela do site. Com isso, conseguimos tornar nossas páginas mais interativas. Nos encontramos na próxima aula. Até mais!##
