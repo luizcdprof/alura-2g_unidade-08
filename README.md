@@ -39,3 +39,14 @@ Olá, estudantes! O tema de nossa aula foi a inserção de imagens e o controle 
 Vamos revisar o que fizemos até agora? Primeiro, identificamos os elementos do modelo de caixa, entendendo como funcionam o conteúdo e as propriedades de espaçamento.
 
 Em seguida, aplicamos padding, border e margin para o espaçamento, controlando a distância entre os elementos da página. Posteriormente, inserimos imagens usando a tag img e o atributo alt, descrevendo o conteúdo para uma maior acessibilidade. Por último, aprendemos a usar o Gemini para gerar imagens coerentes com o contexto de nossa página. Com isso, conseguimos melhorar o design e a acessibilidade visual de nossas páginas web.
+
+# Aula 05: Flexbox e Classes
+
+## Introduzindo o tema da aula
+Olá, estudantes! O tema de nossa aula foi o uso de flexboxes e classes para organizar o design dos elementos. Nosso objetivo era posicionar os elementos da página de maneira mais ordenada e responsiva. Vamos relembrar o que fizemos até aqui?
+
+## Revisando conceitos de display
+Primeiro, revisamos o comportamento padrão do display block, entendendo como os elementos se organizam automaticamente na página.
+
+## Explorando o display flex e classes CSS
+Em seguida, conhecemos o display flex, explorando formas de alinhar e distribuir os elementos com mais flexibilidade. Posteriormente, aplicamos classes CSS para reutilizar estilos, facilitando a padronização do aspecto visual. Por fim, utilizamos seletores de classe para definir com mais precisão quais elementos seriam estilizados. Com isso, conseguimos organizar melhor os elementos da página e melhorar a estrutura visual do nosso projeto.
